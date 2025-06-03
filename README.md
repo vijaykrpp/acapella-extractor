@@ -10,6 +10,8 @@ Acapella Extractor is a powerful AI-based tool that extracts vocals, drums, bass
 
 ---
 
+![App Screenshot](https://acapellaextractors.com/assets/keep-music-files-ready.webp?v=3)
+
 ## Features
 
 - 🎵 Studio-quality vocal and instrumental separation using Demucs AI.
