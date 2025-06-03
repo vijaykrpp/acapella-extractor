@@ -12,11 +12,11 @@ Acapella Extractor is a powerful AI-based tool that extracts vocals, drums, bass
 
 <img src="https://img001.prntscr.com/file/img001/weHe0DnCQMes0oS-LlPP9w.png" alt="acapella extractor home page" width="600"/>
 
-<img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="App Screenshot" width="600"/>
+<img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="select output file format" width="600"/>
 
 <img src="https://img001.prntscr.com/file/img001/FJcUg_f1TlWaJ5_WMUMsfg.png" alt="progress bar" width="600"/>
 
-<img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results" width="600"/>
+<img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results" width="600" height="400"/>
 
 ## Features
 
