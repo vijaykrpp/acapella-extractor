@@ -1,4 +1,4 @@
-# 🔮 AI Astrologer – Free Astrology Chat With AI Astrologer
+# Acapella Extractor - Extract Vocals, Drums, Bass & Other Stems From Any Song
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://acapellaextractors.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
