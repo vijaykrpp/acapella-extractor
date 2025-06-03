@@ -1,5 +1,5 @@
 # Acapella Extractor
-[![MIT License](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
 
 [Demo](https://acapellaextractors.com/)
 
