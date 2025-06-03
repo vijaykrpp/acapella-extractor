@@ -1,23 +1,19 @@
-# Acapella Extractor
+# 🔮 AI Astrologer – Free Astrology Chat With AI Astrologer
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://acapellaextractors.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
 
-[Demo](https://acapellaextractors.com/)
+<table><tr><td> <img src="https://img001.prntscr.com/file/img001/weHe0DnCQMes0oS-LlPP9w.png" alt="acapella extractor home page"></td><td><img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="select output file format"></td></tr>
+<tr><td> <img src="https://img001.prntscr.com/file/img001/FJcUg_f1TlWaJ5_WMUMsfg.png" alt="progress bar"></td><td><img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results"></td></tr>
+</table>
 
----
+## 🌟 Introduction
 
-## About the Tool
+Extract acapella from songs free in MP3, WAV, ALAC, AAC, and other formats effortlessly with our convenient tool! AcapellaExtractors.com is a free website that allows you to make acapella without paying any fees. You can split any audio file into vocals, drums, bass, and other stems it contains.
 
-Acapella Extractor is a powerful AI-based tool that extracts vocals, drums, bass, and other stems from any audio file using the state-of-the-art Demucs AI model. This tool enables effortless separation of audio components for music production, remixing, or karaoke use.
+Our tool is not only safe and user-friendly but also completely FREE! All extracted audio files can be downloaded in the highest quality without any annoying ads.
 
----
-
-<img src="https://img001.prntscr.com/file/img001/weHe0DnCQMes0oS-LlPP9w.png" alt="acapella extractor home page" width="600"/>
-
-<img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="select output file format" width="600"/>
-
-<img src="https://img001.prntscr.com/file/img001/FJcUg_f1TlWaJ5_WMUMsfg.png" alt="progress bar" width="600"/>
-
-<img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results" width="600" height="400"/>
+We support multiple file formats — allowing you to remove vocals from MP3 and other file types! No need to download any software or random APK apps (we dislike them as much as you do).
 
 ## Features
 
@@ -32,32 +28,27 @@ Acapella Extractor is a powerful AI-based tool that extracts vocals, drums, bass
 - 💬 No sign-up required for quick and hassle-free downloads.
 - Compatible with Google Chrome, Mozilla Firefox, Safari, Opera, and all Chromium-based browsers.
 
----
+## 🚀 Live Demo
 
-## Summary
+Experience the Acapella Extractor now:  
+👉 [https://acapellaextractors.com/](https://acapellaextractors.com/)
 
-Extract acapella from songs free in MP3, WAV, ALAC, AAC, and other formats effortlessly with our convenient tool! AcapellaExtractors.com is a free website that allows you to make acapella without paying any fees. You can split any audio file into vocals, drums, bass, and other stems it contains.
+## ✨ Technology Stack
 
-Our tool is not only safe and user-friendly but also completely FREE! All extracted audio files can be downloaded in the highest quality without any annoying ads.
+- **Frontend/Backend**: PHP, Python, Bootstrap 5, jQuery
+- **AI Engine**: Meta's Demucs
+- **UI/UX**: HTML, CSS, JS
+- **Hosting**: Apache/Nginx, Ubuntu compatible
 
-We support multiple file formats — allowing you to remove vocals from MP3 and other file types! No need to download any software or random APK apps (we dislike them as much as you do).
+## 📌 SEO Keywords
 
----
+Acapella extractor online | mp3 to acapella | vocal extractor | vocal remover | online vocal remover free | vocal extractor software | online acapella maker | vocal stem extractor | ai vocal remover free | music extractor from song
 
-## Technologies Used
+## 📋 Installation Guide
 
-- HTML  
-- CSS  
-- PHP  
-
----
-
-## Demo
-
-Try it live at: [https://acapellaextractors.com/](https://acapellaextractors.com/)
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Requirements:
+- PHP 7.4+
+- MySQL (optional)
+- Meta Demucs
+- Python
+- Django
