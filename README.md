@@ -1,4 +1,5 @@
 # Acapella Extractor
+[![MIT License](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
 
 [Demo](https://acapellaextractors.com/)
 
